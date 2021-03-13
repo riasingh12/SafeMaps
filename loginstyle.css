@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: PT Sans;
   background: #34495e;background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -28,7 +28,7 @@ body{
 /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
 .header a.logo {
   font-size: 40px;
-  font-weight: bold;
+  /*font-weight: bold;*/
 }
 
 /* Change the background color on mouse-over */
@@ -126,7 +126,7 @@ footer {
   letter-spacing: 1px;
   padding: 8px 48px;
   margin-top: 32px;
-  border: 2px solid #75759E;
+  border: 2px solid #858591;
   border-radius: 20px;
   cursor: pointer;
   -webkit-transition: all ease .2s;
