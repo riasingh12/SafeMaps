@@ -15,7 +15,7 @@ html, body {
     }
     .header {
       overflow: hidden;
-      background-color: #f1f1f1;
+      background-color: #ffffff;
       padding: 20px 10px;
     }
     
@@ -52,6 +52,7 @@ html, body {
     /* Float the link section to the right */
     .header-right {
       float: right;
+      white-space: normal;
     }
     
     /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
@@ -83,5 +84,7 @@ html, body {
 		#map{
 			height: 1000px;
 			width: 90%;
-      margin: 50px;
+      margin: auto;
 		}
+
+    
