@@ -1,5 +1,5 @@
 # SafeMaps
-_Your Safe way home_
+_Your safer way Home_
 
 https://safemaps.co/
 
