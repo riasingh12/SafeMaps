@@ -1,6 +1,6 @@
-<img width="1552" alt="Screenshot 2021-03-14 at 3 47 47 AM" src="https://user-images.githubusercontent.com/56034404/111057491-efa97180-84ad-11eb-9453-b2699012792a.png">
 # SafeMaps
-Your Safe way home
+_Your Safe way home_
+
 https://safemaps.co/
 
 # Description
