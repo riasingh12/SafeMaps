@@ -1,3 +1,4 @@
+<img width="1552" alt="Screenshot 2021-03-14 at 3 47 47 AM" src="https://user-images.githubusercontent.com/56034404/111057491-efa97180-84ad-11eb-9453-b2699012792a.png">
 # SafeMaps
 Your Safe way home
 https://safemaps.co/
@@ -30,6 +31,7 @@ vi) We are also having some issues with deploying the prototype on the custom do
 vii) As this is a prototype right now and we could not find much data to work with, we planned in future after gathering surplus data and having a big enough density map we will introduce GPS feature and user authentication both using google firebase and cloud services. We will also add an SOS button for sending emergency texts, if the user ever finds themselves stranded.
 
 # Screenshots
-<img width="1532" alt="Screenshot 2021-03-14 at 3 47 31 AM" src="https://user-images.githubusercontent.com/56034404/111057409-57ab8800-84ad-11eb-8d23-ca6bc1eacded.png">
+<img width="1552" alt="Screenshot 2021-03-14 at 3 47 47 AM" src="https://user-images.githubusercontent.com/56034404/111057500-04860500-84ae-11eb-9102-4d0bcbd6452f.png">
+
 <img width="1552" alt="Screenshot 2021-03-14 at 4 11 36 AM" src="https://user-images.githubusercontent.com/56034404/111057410-5aa67880-84ad-11eb-809f-d87a53af8ac6.png">
 
