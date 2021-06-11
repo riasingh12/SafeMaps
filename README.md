@@ -35,3 +35,5 @@ vii) As this is a prototype right now and we could not find much data to work wi
 
 <img width="1552" alt="Screenshot 2021-03-14 at 4 11 36 AM" src="https://user-images.githubusercontent.com/56034404/111057410-5aa67880-84ad-11eb-809f-d87a53af8ac6.png">
 
+<img width="1532" alt="Screenshot 2021-06-11 at 8 06 21 PM" src="https://user-images.githubusercontent.com/54089081/121703486-82c76700-caf0-11eb-90cf-58243d862998.png">
+
